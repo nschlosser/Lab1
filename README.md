@@ -1,2 +1,2 @@
 # Lab1
-Practice with oogle Colab and Github
+Practice with Google Colab and Github
